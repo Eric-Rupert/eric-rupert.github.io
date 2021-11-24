@@ -1,14 +1,19 @@
 ## Bio
 
+Eric is a veteran of the US Navy's Submarine NR-1, where he found his love of the oceans.  His research revolves around hydrodynamics, algorithm development, and soft robotics.  He enjoys the gym, dancing, and hiking with his dog, Bandido.
+
 ---
 ### Education
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Ph.D. student Ocean Engineering, University of Rhode Island
+M.S. Ocean Engineering, University of Rhode Island 2021
+B.S. Physics, University of Colorado 2014
 
 ---
 ### Work Experience
 
+United States Navy, Nuclear Electrician 2004-2008
+Union Pacific Railroad, Desiel Electrician 2008-2011
 
 ---
 ### Recent Projects
