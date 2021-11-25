@@ -18,9 +18,7 @@ Union Pacific Railroad, Desiel Electrician 2008-2011
 ---
 ### Recent Projects
 
-A recent (in)validation  
-
-![img](./wkfWall.pmg)
+It just won't put a local image up
 
 ---
 
