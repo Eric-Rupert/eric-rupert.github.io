@@ -20,7 +20,7 @@ Union Pacific Railroad, Desiel Electrician 2008-2011
 
 A recent (in-)validation  
 
-![Your Mother](./wkfWall.pmg)
+![img](./wkfWall.pmg)
 
 ---
 
